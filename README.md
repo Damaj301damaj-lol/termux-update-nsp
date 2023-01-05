@@ -10,3 +10,6 @@ This work is a part of Public Domain
 4) done!
 
 Report issues or doing pull requests is helping, don't feel shy doing so!
+
+# Misconception 
+A Misconception happened in the skyline discord server :p, just wanted to say that this is a rewrite of [ this script](https://gist.github.com/Vixeliz/62bdbfa081a7716c3b71b30c101f2912), and not a rewrite of the patching script, patching script is literally the same, just this download script is made with error checking and is less likely to fail then the older script
