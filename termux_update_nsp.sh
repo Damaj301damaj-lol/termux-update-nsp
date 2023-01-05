@@ -29,7 +29,7 @@ cd ..
 cd ..
 
 # curl the script to save it
-curl -o https://gist.github.com/Vixeliz/eb2f038d59beafff14e49b56c14e469c/raw/a88f012227fb703e5b0a009d01a6f7670f5ba3e4/nsp_update_patcher.sh || echo "Make sure you are online!" && exit 1
+curl -O https://gist.github.com/Vixeliz/eb2f038d59beafff14e49b56c14e469c/raw/a88f012227fb703e5b0a009d01a6f7670f5ba3e4/nsp_update_patcher.sh || echo "Make sure you are online!" && exit 1
 # chmod +x it
 chmod +x nsp_update_patcher.sh
 
